@@ -4,6 +4,9 @@
 
 
 2023:
+- Li et al., "3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion," arXiv, 2023.
+- Hong et al., "Debiasing Scores and Prompts of 2D Diffusion for Robust Text-to-3D Generation," arXiv, 2023.
+- Kim et al., "PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion," arXiv, 2023.
 - Singer et al., [Text-to-4d dynamic scene generation](https://arxiv.org/abs/2301.11280), arXiv,2023.
 - Liu et al., [Zero-1-to-3: Zero-shot One Image to 3D Object](https://arxiv.org/abs/2303.11328), arXiv, 2023.
 - Seo et al., [Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](https://arxiv.org/abs/2303.07937), arXiv, 2023.
